@@ -1,4 +1,4 @@
-# 🛠️ Tabel de Comenzi Esențiale
+# Analiză și Procesare
 
 | Comandă | Nume | Descriere | Exemplu Practic |
 | :--- | :--- | :--- | :--- |
