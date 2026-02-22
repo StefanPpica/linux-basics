@@ -1,6 +1,6 @@
 # Redirecționarea Fluxurilor și Pipe-uri (I/O Redirection)
 
-| Operator | Nume | Descriere | Exemplu |
+| Comanda | Nume | Descriere | Exemplu |
 | :--- | :--- | :--- | :--- |
 | `>` | **Overwrite** (stdout) | Trimite rezultatul unei comenzi într-un fișier (șterge conținutul vechi). | `echo "Salut" > fisier.txt` |
 | `>>` | **Append** (stdout) | Adaugă rezultatul la finalul fișierului (păstrează conținutul vechi). | `echo "Linie noua" >> fisier.txt` |
