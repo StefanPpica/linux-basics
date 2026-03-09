@@ -12,4 +12,4 @@ grep "ERROR" server.log | cut -d " " -f 4 | sort | uniq -c
 
 # 3. Extrage lista de utilizatori care s-au logat
 echo "Utilizatori logati:"
-grep "Login_Success" server.log | awk '{print $4} | cut -d ":" -f 2
+grep "Login_Success" server.log | awk '{print $4}' | cut -d ":" -f 2 |
