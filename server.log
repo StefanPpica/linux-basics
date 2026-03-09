@@ -1,0 +1,7 @@
+2026-03-09 10:01:22 INFO User:stefan Login_Success
+2026-03-09 10:05:45 ERROR Database_Connection_Failed
+2026-03-09 10:10:12 INFO User:admin Login_Success
+2026-03-09 10:15:33 ERROR Timeout_on_API_Request
+2026-03-09 10:20:01 ERROR Database_Connection_Failed
+2026-03-09 10:22:15 INFO User:stefan Logout
+2026-03-09 10:25:00 ERROR Database_Connection_Failed
