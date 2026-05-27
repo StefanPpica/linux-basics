@@ -1,4 +1,4 @@
-Iată o variantă foarte profesională și curată, exact în stilul comunității DevOps de pe GitHub. O poți copia direct în fișierul tău README.md:
+
 
 Markdown
 # Linux Basics & DevOps Journey
